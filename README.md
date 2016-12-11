@@ -13,7 +13,7 @@ We meet every other Tuesday from 2:30 to 4:00 pm year round.  Though if school
 is canceled due to inclement weather or a holiday, then we also cancel meeting
 for that day.
 
-We generally meet in the Board Room, but if that room is occupied, we may be in
+We generally meet in the board room, but if that room is occupied, we may be in
 the conference room or the auditorium.
 
 Future Meeting Dates
