@@ -1,3 +1,6 @@
+
+![](images/ep500-800.png)
+
 Cyber Explorer Post 500
 =======================
 This is the github space for the Cyber Explorer Post 500 in Rome, New York.
@@ -27,5 +30,10 @@ Future Meeting Dates
 * February 21
 * ...
 
+What have we been up to lately?
+==============================
+During our latest meetings we've been working on a simple Python game.  It
+started out as a simple, but graphical hello world and now it's a playable
+(albeit simple) game.
 
-
+<center><video src="videos/capture-800.mp4"/></center>

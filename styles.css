@@ -1,0 +1,75 @@
+
+/*
+ * Use a sans-serif font for easier screen reading, make the background darker
+ * so it doesn't kill my eyes and soften the contrast between the background
+ * color and the text color.
+ */
+body {
+    font-family: sans-serif;
+    color: #1a1a1a;
+    background-color: #fafafa;
+    text-align: justify;
+}
+
+pre {
+    white-space: pre-wrap;
+    padding-left: 20px;
+}
+
+caption {
+    font-weight: bold;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+div.figure {
+    /* position: relative; */
+    padding: 20px;
+    text-align: center;
+}
+
+/* And figure captions are centered/bold. */
+p.caption {
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Remove underlines from links */
+a {
+    text-decoration: none;
+}
+
+/* Put links in blocks so they stand out more, for example: [link]. */
+a::before {
+    content: "[";
+}
+a::after {
+    content: "]";
+}
+
+/* unvisited link */
+a:link {
+    color: #7a7a7a;
+}
+
+/* visited link */
+a:visited {
+    color: #acacac;
+}
+
+/* mouse over link */
+a:hover {
+    color: #9a9a9a;
+}
+
+/* selected link */
+a:active {
+    color: #7a7a7a;
+}
+
+/* for footnotes */
+ol {
+    display: block;
+}

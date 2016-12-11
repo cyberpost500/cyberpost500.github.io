@@ -18,7 +18,7 @@ PDF_OPTS+=-N                             # number the sections, doesn't look
 
 HTML_OPTS:=--highlight-style=tango
 HTML_OPTS+=-s                            #stand-alone
-HTML_OPTS+=--css /modules/styles.css
+HTML_OPTS+=--css styles.css
 #HTML_OPTS+=--toc
 
 # Anyone adding more content, just copy and paste and update the paths below.
