@@ -36,4 +36,4 @@ During our latest meetings we've been working on a simple Python game.  It
 started out as a simple, but graphical hello world and now it's a playable
 (albeit simple) game.
 
-<center><video src="videos/capture-800.mp4"/></center>
+<center><video controls src="videos/capture-800.mp4"/></center>
