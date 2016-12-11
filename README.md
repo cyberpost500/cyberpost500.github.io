@@ -9,7 +9,7 @@ just head over to the [module repository](modules/) and see what we have.
 Meeting Place and Time
 ----------------------
 We meet at the Griffis Institute at [725 Daedalian Dr, Rome NY](https://www.google.com/maps/place/Griffiss+Institute/@43.212204,-75.398448,15z/data=!4m5!3m4!1s0x0:0x6534a15939502b15!8m2!3d43.212204!4d-75.398448).
-We meet every other Tuesday from 2:30 to 5:00 pm year round.  Though if school
+We meet every other Tuesday from 2:30 to 4:00 pm year round.  Though if school
 is canceled due to inclement weather or a holiday, then we also cancel meeting
 for that day.
 
