@@ -23,7 +23,6 @@ Future Meeting Dates
 --------------------
 
 * December 13
-* December 27
 * January 10
 * January 24
 * February 7
