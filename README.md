@@ -31,6 +31,6 @@ What have we been up to lately?
 ==============================
 During our latest meetings we've been doing some Linux command line
 introduction, looking at the stuff on [over the
-wire](http://labs.overthewire.org) and porting the Python game we made to Java.
+wire](http://overthewire.org) and porting the Python game we made to Java.
 
 <center><video controls src="videos/capture-800.mp4"/></center>
