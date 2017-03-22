@@ -11,28 +11,26 @@ just head over to the [module repository](modules/) and see what we have.
 
 Meeting Place and Time
 ----------------------
-We meet at the Griffis Institute at [725 Daedalian Dr, Rome NY](https://www.google.com/maps/place/Griffiss+Institute/@43.212204,-75.398448,15z/data=!4m5!3m4!1s0x0:0x6534a15939502b15!8m2!3d43.212204!4d-75.398448).
-We meet every other Tuesday from 2:30 to 4:00 pm year round.  Though if school
-is canceled due to inclement weather or a holiday, then we also cancel meeting
-for that day.
+We meet at the Rome Free Academy, every other Tuesday from 2:15 to 4:00 during
+the school year, in room 2200.  We will likely resume meeting at the Griffis
+Institute over summer vacation.
 
-We generally meet in the board room, but if that room is occupied, we may be in
-the conference room or the auditorium.
+If school is canceled due to inclement weather or a holiday, then we also
+cancel meeting for that day.
 
 Future Meeting Dates
 --------------------
 
-* December 13
-* January 10
-* January 24
-* February 7
-* February 21
+* April 4
+* April 18
+* May 2
+* May 16
 * ...
 
 What have we been up to lately?
 ==============================
-During our latest meetings we've been working on a simple Python game.  It
-started out as a simple, but graphical hello world and now it's a playable
-(albeit simple) game.
+During our latest meetings we've been doing some Linux command line
+introduction, looking at the stuff on [over the
+wire](http://labs.overthewire.org) and porting the Python game we made to Java.
 
 <center><video controls src="videos/capture-800.mp4"/></center>
