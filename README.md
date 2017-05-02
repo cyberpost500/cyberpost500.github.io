@@ -21,8 +21,6 @@ cancel meeting for that day.
 Future Meeting Dates
 --------------------
 
-* April 4
-* April 18
 * May 2
 * May 16
 * ...
