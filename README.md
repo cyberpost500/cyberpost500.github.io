@@ -21,14 +21,13 @@ cancel meeting for that day.
 Future Meeting Dates
 --------------------
 
-* May 2
-* May 16
-* ...
+* Sep 19
+* Oct 3
+* Oct 17
 
 What have we been up to lately?
 ==============================
-During our latest meetings we've been doing some Linux command line
-introduction, looking at the stuff on [over the
-wire](http://overthewire.org) and porting the Python game we made to Java.
+It's a new year and we're just getting started.  Tentative plans are to do some
+[Mientest](https://www.minetest.net) modding, possibly some Android
+development, or whatever else the students want to work on.
 
-<center><video controls src="videos/capture-800.mp4"/></center>
