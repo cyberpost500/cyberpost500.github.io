@@ -28,6 +28,6 @@ Future Meeting Dates
 What have we been up to lately?
 ==============================
 It's a new year and we're just getting started.  Tentative plans are to do some
-[Mientest](https://www.minetest.net) modding, possibly some Android
+[Minetest](https://www.minetest.net) modding, possibly some Android
 development, or whatever else the students want to work on.
 
