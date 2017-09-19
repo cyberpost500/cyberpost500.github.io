@@ -21,7 +21,11 @@ cancel meeting for that day.
 Future Meeting Dates
 --------------------
 
+Note: We're having weekly meetings for at least the first month, then resuming
+the every other Tuesday schedule.
+
 * Sep 19
+* Sep 26
 * Oct 3
 * Oct 17
 
